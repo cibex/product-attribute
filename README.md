@@ -48,7 +48,7 @@ addon | version | maintainers | summary
 [product_optional_product_quantity](product_optional_product_quantity/) | 16.0.1.0.0 |  | Specify optional products quantity for product
 [product_packaging_container_deposit](product_packaging_container_deposit/) | 16.0.1.1.1 |  | Add container deposit fees in a order
 [product_packaging_dimension](product_packaging_dimension/) | 16.0.1.1.1 |  | Manage packaging dimensions and weight
-[product_packaging_level](product_packaging_level/) | 16.0.1.1.0 |  | This module binds a product packaging to a packaging level
+[product_packaging_level](product_packaging_level/) | 16.0.1.2.0 |  | This module binds a product packaging to a packaging level
 [product_packaging_level_purchasable](product_packaging_level_purchasable/) | 16.0.1.1.0 |  | Control purchase of products via packaging settings.
 [product_packaging_level_salable](product_packaging_level_salable/) | 16.0.1.0.0 |  | Product Packaging level salable
 [product_pricelist_direct_print](product_pricelist_direct_print/) | 16.0.1.0.2 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Print price list from menu option, product templates, products variants or price lists
@@ -66,7 +66,7 @@ addon | version | maintainers | summary
 [product_profile](product_profile/) | 16.0.1.0.0 | [![bealdav](https://github.com/bealdav.png?size=30px)](https://github.com/bealdav) [![sebastienbeau](https://github.com/sebastienbeau.png?size=30px)](https://github.com/sebastienbeau) [![kevinkhao](https://github.com/kevinkhao.png?size=30px)](https://github.com/kevinkhao) | Allow to configure a product in 1 click
 [product_route_mto](product_route_mto/) | 16.0.1.0.0 |  | This module allows to compute if a product is an 'MTO' one from its configured routes
 [product_sale_description](product_sale_description/) | 16.0.1.0.1 |  | Long and short description for products
-[product_secondary_unit](product_secondary_unit/) | 16.0.1.0.2 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
+[product_secondary_unit](product_secondary_unit/) | 16.0.1.0.3 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
 [product_sequence](product_sequence/) | 16.0.2.0.1 |  | Product Sequence
 [product_set](product_set/) | 16.0.3.0.0 |  | Product set
 [product_state](product_state/) | 16.0.1.1.0 | [![emagdalenaC2i](https://github.com/emagdalenaC2i.png?size=30px)](https://github.com/emagdalenaC2i) | Module introducing a state field on product template
