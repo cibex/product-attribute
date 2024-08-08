@@ -23,8 +23,8 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [base_product_mass_addition](base_product_mass_addition/) | 16.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Base Product Mass Addition
 [pos_product_cost_security](pos_product_cost_security/) | 16.0.1.0.0 |  | Compatibility between Point of Sale and Product Cost Security
-[product_abc_classification](product_abc_classification/) | 16.0.1.0.1 |  | ABC classification for sales and warehouse management
-[product_abc_classification_sale_stock](product_abc_classification_sale_stock/) | 16.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) [![lmignon](https://github.com/lmignon.png?size=30px)](https://github.com/lmignon) [![lmarion-source](https://github.com/lmarion-source.png?size=30px)](https://github.com/lmarion-source) | Compute ABC classification from the number of delivered sale order line by product
+[product_abc_classification](product_abc_classification/) | 16.0.1.1.0 |  | ABC classification for sales and warehouse management
+[product_abc_classification_sale_stock](product_abc_classification_sale_stock/) | 16.0.1.0.1 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) [![lmignon](https://github.com/lmignon.png?size=30px)](https://github.com/lmignon) [![lmarion-source](https://github.com/lmarion-source.png?size=30px)](https://github.com/lmarion-source) | Compute ABC classification from the number of delivered sale order line by product
 [product_assortment](product_assortment/) | 16.0.2.0.0 |  | Adds the ability to manage products assortment
 [product_attribute_archive](product_attribute_archive/) | 16.0.1.0.0 |  | Add an active field on product attributes
 [product_attribute_company_favorite](product_attribute_company_favorite/) | 16.0.1.0.0 | [![victor-champonnois](https://github.com/victor-champonnois.png?size=30px)](https://github.com/victor-champonnois) | Possibility to set favorite product attributes per company
@@ -36,6 +36,7 @@ addon | version | maintainers | summary
 [product_category_level](product_category_level/) | 16.0.1.0.0 | [![PierrickBrun](https://github.com/PierrickBrun.png?size=30px)](https://github.com/PierrickBrun) | Add Level field on Product Categories to show the recursion level on the category
 [product_category_product_qty](product_category_product_qty/) | 16.0.1.0.0 |  | Product Category - Product Quantity
 [product_category_type](product_category_type/) | 16.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add Type field on Product Categories to distinguish between parent and final categories
+[product_code_mandatory](product_code_mandatory/) | 16.0.1.0.0 |  | Set Product Internal Reference as a required field
 [product_code_mixin](product_code_mixin/) | 16.0.1.0.0 | [![bealdav](https://github.com/bealdav.png?size=30px)](https://github.com/bealdav) | Make product code available for any inherited model
 [product_code_unique](product_code_unique/) | 16.0.1.0.1 |  | Set Product Internal Reference as Unique
 [product_company_default](product_company_default/) | 16.0.1.0.0 |  | Product Company Default
@@ -77,6 +78,7 @@ addon | version | maintainers | summary
 [product_set](product_set/) | 16.0.3.0.0 |  | Product set
 [product_standard_price_tax_included](product_standard_price_tax_included/) | 16.0.1.0.1 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Brings a Cost Price Field Tax Included on Product Model
 [product_state](product_state/) | 16.0.1.2.0 | [![emagdalenaC2i](https://github.com/emagdalenaC2i.png?size=30px)](https://github.com/emagdalenaC2i) | Module introducing a state field on product template
+[product_sticker](product_sticker/) | 16.0.1.0.0 | [![Shide](https://github.com/Shide.png?size=30px)](https://github.com/Shide) [![rafaelbn](https://github.com/rafaelbn.png?size=30px)](https://github.com/rafaelbn) | Product Sticker
 [product_stock_state](product_stock_state/) | 16.0.1.0.0 | [![sebastienbeau](https://github.com/sebastienbeau.png?size=30px)](https://github.com/sebastienbeau) [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) [![kevinkhao](https://github.com/kevinkhao.png?size=30px)](https://github.com/kevinkhao) | Compute the state of a product's stockthe stock level and sale_ok field
 [product_supplierinfo_archive](product_supplierinfo_archive/) | 16.0.1.0.0 | [![GuillemCForgeFlow](https://github.com/GuillemCForgeFlow.png?size=30px)](https://github.com/GuillemCForgeFlow) [![AlvaroTForgeFlow](https://github.com/AlvaroTForgeFlow.png?size=30px)](https://github.com/AlvaroTForgeFlow) [![OriolVForgeFlow](https://github.com/OriolVForgeFlow.png?size=30px)](https://github.com/OriolVForgeFlow) | Add the active field to the product supplier info
 [product_supplierinfo_code](product_supplierinfo_code/) | 16.0.1.0.0 |  | Allows to get main supplierinfo product_code on product level
