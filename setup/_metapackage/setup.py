@@ -18,6 +18,9 @@ setuptools.setup(
         'odoo-addon-product_attribute_company_favorite>=16.0dev,<16.1dev',
         'odoo-addon-product_attribute_model_link>=16.0dev,<16.1dev',
         'odoo-addon-product_attribute_value_menu>=16.0dev,<16.1dev',
+        'odoo-addon-product_catalog>=16.0dev,<16.1dev',
+        'odoo-addon-product_catalog_sale>=16.0dev,<16.1dev',
+        'odoo-addon-product_catalog_stock>=16.0dev,<16.1dev',
         'odoo-addon-product_category_active>=16.0dev,<16.1dev',
         'odoo-addon-product_category_code>=16.0dev,<16.1dev',
         'odoo-addon-product_category_code_unique>=16.0dev,<16.1dev',
@@ -98,6 +101,7 @@ setuptools.setup(
         'odoo-addon-stock_lot_is_archived>=16.0dev,<16.1dev',
         'odoo-addon-stock_product_template_tags>=16.0dev,<16.1dev',
         'odoo-addon-stock_production_lot_expired_date>=16.0dev,<16.1dev',
+        'odoo-addon-uom_alias>=16.0dev,<16.1dev',
         'odoo-addon-uom_category_active>=16.0dev,<16.1dev',
     ],
     classifiers=[
